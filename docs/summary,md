@@ -1,0 +1,7 @@
+## Project Summary
+
+This project investigates the interaction between neutron particles and silicon material using FLUKA simulation. The study analyzes particle fluence and energy deposition resulting from neutron irradiation.
+
+The results show that neutron particles have the highest fluence due to their strong nuclear interaction and high penetration ability. Secondary particles such as protons, electrons, positrons, and photons are also produced through various interaction mechanisms.
+
+Energy deposition within the material is influenced by nuclear reactions and electromagnetic interactions, resulting in complex spatial distribution patterns.
